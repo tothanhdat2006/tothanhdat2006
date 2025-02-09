@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # About Me:
 
 My fullname is Tô Thành Đạt, or you can call me by my nickname Datto. I am a freshman at VNUHCM - University of Science, a well-known university in Southern Vietnam.
