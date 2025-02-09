@@ -1,9 +1,18 @@
 ## Hi there 👋
 
-💻 About Me
-I am Tô Thành Đạt, a passionate beginner in AI. I am currently studying at VNUHCM - University of Science, one of the top universities in Southern Vietnam.
-- 🔭 I’m currently working on projects related to Machine Learning and Computer Vision.
-- 🌱 I’m currently learning AI and Computer Vision.
-- 📫 How to reach me: via my academic email ttdat2419@clc.fitus.edu.vn
-- ⚡ Some trivial facts: I love reading mangas and light novels (86, one-shot...).
+# About Me:
 
+My fullname is Tô Thành Đạt, or you can call me by my nickname Datto. I am a freshman at VNUHCM - University of Science, a well-known university in Southern Vietnam.
+
+# What I am interested in
+
+I am currently learning AI and Computer Vision. I love working on projects related to Machine Learning or/and Computer Vision.
+
+# Activities:
+
+- AI & DS Specialist at Google Developer Group on Campus - HCMUS (2024 - present)
+- Student at VNUHCM - University of Science (2024 - present)
+
+# DM: 
+
+- Email: ttdat2419@clc.fitus.edu.vn
