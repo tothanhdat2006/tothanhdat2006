@@ -7,7 +7,7 @@ My fullname is Tô Thành Đạt, or you can call me by my nickname Datto. I am 
 I am interested in Computer Vision and Deep Learning. My current research focuses on:
 - (to be updated)
 
-Moreover, I also spend time on learning/researching about following topics:
+Moreover, I often spend time on learning/researching about following topics:
 - Digital signal processing
 - Deep learning based methods in Multispectral/Hyperspectral image processing
 
