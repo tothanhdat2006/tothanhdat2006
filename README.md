@@ -5,7 +5,7 @@ My fullname is Tô Thành Đạt, or you can call me by my nickname Datto. I am 
 ## What I am interested in
 
 I am interested in Computer Vision and Deep Learning. My current research focuses on:
-- (to be updated)
+- Knowledge Disillation in Vision Language Models (VLMs)
 
 Moreover, I often spend time on learning/researching about following topics:
 - Digital signal processing
