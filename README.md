@@ -12,8 +12,8 @@ I am interested in Computer Vision and Deep Learning. My current research focuse
 
 ## Current Goals
 
-- [ ] Publish 1 worshop paper at ICCV 2025
-- [ ] Publish at least 1 paper at an A* conference by the end of my somophore year
+- [x] Publish a workshop paper at ICCV 2025
+- [ ] Publish at least 1 paper at an A* conference by the end of somophore year
 
 ## Future Plan
 
