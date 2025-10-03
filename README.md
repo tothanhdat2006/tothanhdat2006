@@ -2,13 +2,15 @@
 
 My fullname is Tô Thành Đạt, or you can call me by my nickname Datto. 
 
-I am a freshman at VNUHCM - University of Science, a top-ranked university in Southern Vietnam.
+I am a sophomore at VNUHCM - University of Science, a high-ranked university in Southern Vietnam.
 
 ## What I am interested in
 
-I am interested in Computer Vision and Deep Learning. My current research focuses on:
+I am interested in Computer Vision, Deep Learning and Autonomous Vehicles (AVs).
+
+My current research focuses on:
 - Vision Language Models (VLMs)
-- Applied VLMs
+- Applied VLMs, Vision Language Action (VLA)
 
 ## Current Goals
 
@@ -17,12 +19,14 @@ I am interested in Computer Vision and Deep Learning. My current research focuse
 
 ## Future Plan
 
-- Study Masters abroad
+- Fully funded scholarship to study Masters/PhD abroad
+- Working in a Autonomous Vehicles focused company
 
 ## Activities
 
-- AI & DS Specialist at Google Developer Group on Campus - HCMUS (2024 - present)
-- Student at VNUHCM - University of Science (2024 - present)
+- Head of AI&DS team at Google Developer Group on Campus - HCMUS (10/2025 - present)
+- AI&DS Specialist at Google Developer Group on Campus - HCMUS (11/2024 - present)
+- Student at VNUHCM - University of Science (10/2024 - present)
 
 ## DM
 
