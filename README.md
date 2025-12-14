@@ -6,10 +6,11 @@ I am a sophomore at VNUHCM - University of Science, a high-ranked university in 
 
 ## What I am interested in
 
-I am interested in Computer Vision, Deep Learning and Autonomous Vehicles (AVs).
+I am interested in Computer Vision, Deep Learning, Robot Vision and Autonomous Vehicles (AVs).
 
 My current research focuses on:
 - Vision Language Models (VLMs)
+- Efficient VLM
 - Applied VLMs, Vision Language Action (VLA)
 
 ## Current Goals
@@ -20,7 +21,7 @@ My current research focuses on:
 ## Future Plan
 
 - Fully funded scholarship to study Masters/PhD abroad
-- Working in a Autonomous Vehicles focused company
+- Working in a Autonomous Vehicles / Robot Vision focused company
 
 ## Activities
 
