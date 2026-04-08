@@ -4,38 +4,30 @@ My fullname is Tô Thành Đạt (Datto), and I am an undergraduate student (Som
 
 ---
 
-# 🔬 Interests
+# 🔬 Current Interests
 
-* 👁️‍🗨️ **Computer Vision (Deep Learning-based)**
-* 🤖 Robot Vision
-* 🚗 Autonomous Vehicles (AVs)
-
-My current research focuses on:
-
-* 🧩 **Vision Language Models (VLMs)**
-* ⚡ Efficient VLM
+* 🧩 Vision Language Models (VLMs) and ⚡ Efficient VLM
 * 🦾 Applied VLMs, Vision-Language-Action (VLA)
 
 ---
 
 # 📄 Publications
 
-* Co-first author, ICCV 2025 Workshop: [STER-VLM: Spatio-Temporal With Enhanced Reference Vision-Language Models](https://openaccess.thecvf.com/content/ICCV2025W/AICity/papers/Nguyen-Nhu__STER-VLM_Spatio-Temporal_With_Enhanced_Reference_Vision-Language_Models_ICCVW_2025_paper.pdf)
+* First-author, CVPR Workshop 2026: [Upcoming]
+* Co-first author, ICCV Workshop 2025: [STER-VLM: Spatio-Temporal With Enhanced Reference Vision-Language Models](https://openaccess.thecvf.com/content/ICCV2025W/AICity/papers/Nguyen-Nhu__STER-VLM_Spatio-Temporal_With_Enhanced_Reference_Vision-Language_Models_ICCVW_2025_paper.pdf)
 
 ---
 
 # 🎯 Current Goals
 
-* Publish **at least 1 paper** by the end of sophomore year
-* Publish **at least 3 papers** before graduate
+* Publish **at least 1 conference paper** by the end of sophomore year
+* Publish **at least 2 conference papers** before graduate
 
 ---
 
 # 🚀 Future Plan
 
-* **Fully funded Master’s / PhD** scholarship abroad
-or
-* Working in an **Autonomous Vehicles / Robot Vision** company
+* Study Master/PhD abroad with fully-funded scholarship
 
 ---
 
