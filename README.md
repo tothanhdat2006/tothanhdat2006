@@ -1,13 +1,7 @@
 # 👨‍💻 About Me
 
 My fullname is Tô Thành Đạt (Datto), and I am an undergraduate student (Somophore year) at VNUHCM – University of Science.
-
----
-
-# 🔬 Current Interests
-
-* 🧩 Vision Language Models (VLMs) and ⚡ Efficient VLM
-* 🦾 Applied VLMs, Vision-Language-Action (VLA)
+My research focuses on Computer Vision, alongside Efficient and Faithful Vision-Language Models (VLMs) and Multimodal Large Language Models (MLLMs).
 
 ---
 
